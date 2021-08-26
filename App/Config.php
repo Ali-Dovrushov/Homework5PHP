@@ -14,25 +14,25 @@ class Config
      * Database host
      * @var string
      */
-    const DB_HOST = 'your-database-host';
+    const DB_HOST = '192.168.88.45:3306';
 
     /**
      * Database name
      * @var string
      */
-    const DB_NAME = 'your-database-name';
+    const DB_NAME = 'carstudio';
 
     /**
      * Database user
      * @var string
      */
-    const DB_USER = 'your-database-user';
+    const DB_USER = 'CarsBase';
 
     /**
      * Database password
      * @var string
      */
-    const DB_PASSWORD = 'your-database-password';
+    const DB_PASSWORD = 'Admin12345';
 
     /**
      * Show or hide error messages on screen

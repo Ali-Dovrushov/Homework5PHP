@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => 'dev-master',
-        'version' => 'dev-master',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '740a438136c84fa3d2d7e174fcc3d847cf913a2b',
+        'reference' => '8760895ea22a1059bc626aea923171fe3c8d3bb3',
         'name' => '__root__',
         'dev' => true,
     ),
     'versions' => array(
         '__root__' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '740a438136c84fa3d2d7e174fcc3d847cf913a2b',
+            'reference' => '8760895ea22a1059bc626aea923171fe3c8d3bb3',
             'dev_requirement' => false,
         ),
         'symfony/polyfill-ctype' => array(
